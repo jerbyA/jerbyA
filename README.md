@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerbyA a Java JEE Backend Engineer.  
-- 👀 I’m interested in all related technologies on how inner-systems works: BacKend,System Design ,Architecture, Cloud & Automation Devops tools....
+- 👀 I’m interested in all related technologies on how inner-systems works: BacKend, Database Design, System Design, Architecture, Cloud & Automation Devops tools...
 - 📫 How to reach me ... email me @ jerbi.ahmad@gmail.com
 
 <!---
